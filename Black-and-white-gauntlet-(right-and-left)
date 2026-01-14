@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://arch-http.vercel.app/files/Black and white gauntlet"))()
